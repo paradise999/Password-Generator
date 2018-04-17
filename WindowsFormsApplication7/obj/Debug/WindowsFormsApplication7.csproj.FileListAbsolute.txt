@@ -1,0 +1,19 @@
+d:\users\parad\documents\visual studio 2015\Projects\WindowsFormsApplication7\WindowsFormsApplication7\bin\Debug\WindowsFormsApplication7.exe.config
+d:\users\parad\documents\visual studio 2015\Projects\WindowsFormsApplication7\WindowsFormsApplication7\bin\Debug\WindowsFormsApplication7.exe
+d:\users\parad\documents\visual studio 2015\Projects\WindowsFormsApplication7\WindowsFormsApplication7\bin\Debug\WindowsFormsApplication7.pdb
+d:\users\parad\documents\visual studio 2015\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.csprojResolveAssemblyReference.cache
+d:\users\parad\documents\visual studio 2015\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.Form1.resources
+d:\users\parad\documents\visual studio 2015\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.Properties.Resources.resources
+d:\users\parad\documents\visual studio 2015\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.csproj.GenerateResource.Cache
+d:\users\parad\documents\visual studio 2015\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.exe
+d:\users\parad\documents\visual studio 2015\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.pdb
+D:\Users\parad\Desktop\Учёба\Предметы\ТЗИ\WindowsFormsApplication7\WindowsFormsApplication7\bin\Debug\WindowsFormsApplication7.exe.config
+D:\Users\parad\Desktop\Учёба\Предметы\ТЗИ\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.exe
+D:\Users\parad\Desktop\Учёба\Предметы\ТЗИ\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.pdb
+D:\Users\parad\Desktop\Учёба\Предметы\ТЗИ\WindowsFormsApplication7\WindowsFormsApplication7\bin\Debug\WindowsFormsApplication7.exe
+D:\Users\parad\Desktop\Учёба\Предметы\ТЗИ\WindowsFormsApplication7\WindowsFormsApplication7\bin\Debug\WindowsFormsApplication7.pdb
+D:\Users\parad\Desktop\Учёба\Предметы\ТЗИ\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.csprojResolveAssemblyReference.cache
+D:\Users\parad\Desktop\Учёба\Предметы\ТЗИ\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.Form1.resources
+D:\Users\parad\Desktop\Учёба\Предметы\ТЗИ\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.Properties.Resources.resources
+D:\Users\parad\Desktop\Учёба\Предметы\ТЗИ\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.csproj.GenerateResource.cache
+D:\Users\parad\Desktop\Учёба\Предметы\ТЗИ\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.csproj.CoreCompileInputs.cache
